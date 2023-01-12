@@ -1,0 +1,29 @@
+
+
+input{
+     width: 300px;
+     height: 30px;
+     border-radius: 10px;
+     margin-top: 10px;
+     background: transparent;
+     color: white;
+     
+}
+
+button{
+    height: 50px;
+    width: 200px;
+    margin-top: 30px;
+    border-radius: 10px;
+    background: white;
+    
+ 
+}
+#container{
+    background-image: url("https://th.bing.com/th/id/OIP.t_Tp9NTd8SJ7LlrV0zZeNgHaEo?pid=ImgDet&rs=1");
+}
+
+
+#heading1{
+    color: white;
+}
